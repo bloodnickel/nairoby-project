@@ -4,7 +4,8 @@
 Date: 04/17/2026
 
 Project: Analyze import trends of HS 070960 (peppers, fresh or chilled) into Germany (DE), Poland (PL), and the United Kingdom (UK).
-
+-----
+Paticipants : Edson, Anwen, Mykyta
 -----
 **Project goal**
 
