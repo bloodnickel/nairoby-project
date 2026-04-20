@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Cayenne / Long Red",
+    "description": "Long thin very hot chili from South America (30k–50k SHU)",
+    "query": "cayenne pepper isolated"
+  },
+  {
+    "name": "Paprika / Spicy pimiento",
+    "description": "Sweet to mildly spicy pepper used for paprika (500–5k SHU)",
+    "query": "paprika pepper red isolated"
+  },
+  {
+    "name": "Jalapeño / Serrano",
+    "description": "Mexican green chilies; medium to hot (2.5k–20k SHU)",
+    "query": "jalapeno serrano peppers fresh"
+  },
+  {
+    "name": "Bird's Eye",
+    "description": "Very hot small chili from Asia/Africa (50k–100k SHU)",
+    "query": "bird eye chili close up"
+  },
+  {
+    "name": "Malagueta",
+    "description": "Small very hot Brazilian chili (50k–100k SHU)",
+    "query": "malagueta pepper fresh"
+  },
+  {
+    "name": "Dedo-de-moça",
+    "description": "Brazilian chili medium-high heat (15k–50k SHU)",
+    "query": "dedo de moca pepper"
+  },
+  {
+    "name": "Biquinho",
+    "description": "Small sweet or mild Brazilian chili (500–1k SHU)",
+    "query": "biquinho pepper"
+  },
+  {
+    "name": "Habanero / Scotch Bonnet",
+    "description": "Very hot aromatic Caribbean chilies (100k–350k SHU)",
+    "query": "habanero scotch bonnet pepper isolated"
+  },
+  {
+    "name": "Paprika / Bulgarian-type",
+    "description": "Sweet thick pepper used for paprika (0–1k SHU)",
+    "query": "bulgarian paprika pepper"
+  },
+  {
+    "name": "Espelette / Basque pepper",
+    "description": "Mild French chili often dried (1k–4k SHU)",
+    "query": "espelette pepper red"
+  },
+  {
+    "name": "Paprika (Hungarian-type)",
+    "description": "Hungarian paprika pepper mild to medium (500–8k SHU)",
+    "query": "hungarian paprika pepper"
+  },
+  {
+    "name": "Shatta",
+    "description": "Middle Eastern chili paste pepper (20k–80k SHU)",
+    "query": "shatta chili paste"
+  },
+  {
+    "name": "Italian peperoncino",
+    "description": "Small Italian chili medium heat (15k–30k SHU)",
+    "query": "italian peperoncino chili"
+  },
+  {
+    "name": "Small hot peperoncini",
+    "description": "Hot Mediterranean peppers (10k–40k SHU)",
+    "query": "hot peperoncini peppers"
+  },
+  {
+    "name": "Harissa-specific varieties",
+    "description": "Chilies used for harissa paste (20k–100k SHU)",
+    "query": "harissa chili peppers dried"
+  },
+  {
+    "name": "Piri Piri",
+    "description": "Very hot African chili (50k–175k SHU)",
+    "query": "piri piri pepper fresh"
+  },
+  {
+    "name": "Padron",
+    "description": "Spanish peppers mostly mild (500–2.5k SHU)",
+    "query": "padron peppers grilled"
+  },
+  {
+    "name": "Espelette / Aleppo-like",
+    "description": "Mild aromatic Mediterranean chili (10k–30k SHU)",
+    "query": "aleppo pepper flakes"
+  },
+  {
+    "name": "Scotch Bonnet",
+    "description": "Very hot Caribbean chili (100k–350k SHU)",
+    "query": "scotch bonnet pepper close up"
+  }
+]
